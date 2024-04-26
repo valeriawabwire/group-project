@@ -1,0 +1,68 @@
+{
+"Fee Details": [
+    {
+      "id": 1,
+      "FirstName": "Gerald",
+      "LastName": "Muli",
+      "FeePaid":
+      "FeeBalance": 
+      
+      
+    },
+    {
+        "id": "2",
+      "FirstName": "Gerald",
+      "LastName": "Muli",
+      "FeePaid":
+     
+    },
+    {
+       "id":"3",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      },
+      {
+       "id":"4",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      },
+      {
+        "id":"5",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      },
+      {
+        "id":"6",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      },
+      {
+        "id":"7",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      },
+      {
+        "id":"8",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      },
+      {
+        "id":"9",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      },
+      {
+        "id":"10",
+        "FirstName": "Gerald",
+        "LastName": "Muli",
+        "FeePaid":
+      }
+]
+}
